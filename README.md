@@ -47,8 +47,8 @@ This is the order history report which can be generated when downloading.
 ## Contact Form
 This is a where users can feel a form to submit their complaint. The complaint is then received by email.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/edb347b8-8b25-4db7-84d5-ea0136b3d6f4" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/59603911-37ab-479d-b693-d23e864b7783" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/cc7ae214-c7dc-4156-bef5-67657d6eb692" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/21ec10f1-e4ac-48ec-88fc-f874604557cd" />
 
 ## About Page
 This page provides information to users about the owners of the website.
@@ -71,7 +71,6 @@ The user can also reset their password using either email (phone is non-function
 The reset password url of the email contains a url parameter which links the password reset to the user account. The email has a validity of 10 minutes.
 It is similar to verification.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/e00b9d81-ed21-4802-a2a3-83a5546a6a94" />
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/e9cd4f5b-7704-4b70-8e78-d4d168134943" />
 
 # Admin
@@ -166,9 +165,7 @@ Ex. Update();
 The GUI has been made so that it is compatible with both Desktop and Mobile.
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/e6687769-8393-4324-b019-3559e73bbff1" />
-
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/65945b22-1847-4fca-80a1-be869d2ac7d9" />
-
 
 
 **Disclaimer**
