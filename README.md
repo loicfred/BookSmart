@@ -14,29 +14,35 @@ I could experiment working with **Master Pages**, **Server Controls** and **Code
 This is the first page that greets new users once entering the website.
 The first 3 most popular books are fetched from the database based from which has the highest view count.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/55bf63b7-d8fc-4426-802c-e93dff6049d9" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/63687cce-f002-4fa3-92f3-850e14cc295c" />
+
 
 ## Booklist
 This is page where all books are listed and are grouped by category.
 Changing the category also changes the book list dynamically.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/f739f581-0efc-4689-b476-30ecfc055583" />
+<img width="750" alt="aaaaa" src="https://github.com/user-attachments/assets/133e43f5-2a9a-4768-b422-834ef434169e" />
 
 ## Book
 This is the page which displays all data of a book and where users can also add books to cart. There are no payment feature available.
 The data is loading dynamically using url parameters as book id and the comments are fetched as well ordered by date.
 A user must be logged in to be able to comment.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/b92b4734-baa0-4b90-a3fd-d05750d65f3b" />
+<img width="750" height="640" alt="bbbbb" src="https://github.com/user-attachments/assets/b0bdc2a3-dc4c-49a9-9e74-7225e5e6b13b" />
 
 ## Edit Profile
 A logged in user can also view and modify their profile information, they are able to view their current cart content and download their order history as a PDF file.
 They can also view and delete their comments on any book page.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/e5d1a7d1-34b9-4240-a8a9-d6949228aeea" />
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/2e7d43b0-0ff5-43e7-8ca5-c3ff04631613" />
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/9c2e181c-7f9a-46ac-9ccb-5daea3c13ea7" />
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/e7d456a5-5ed9-4578-9ca1-fda0569342b3" />
+<img width="750" alt="aaa" src="https://github.com/user-attachments/assets/e92416ac-0c40-45fa-b937-3bdad566903a" />
+<img width="750" alt="bbb" src="https://github.com/user-attachments/assets/b26b5634-57f1-4690-8aff-fa713d50ff10" />
+<img width="750" alt="ccc" src="https://github.com/user-attachments/assets/10cb70d8-4492-408e-8a70-393066b4e6b8" />
+<img width="750" alt="ddd" src="https://github.com/user-attachments/assets/aec49d84-f651-4036-86cc-e9cfb0c909e0" />
+
+## Report Generator
+This is the order history report which can be generated when downloading.
+
+<img width="1049" height="498" alt="image" src="https://github.com/user-attachments/assets/9fb08d15-12a8-431c-a915-8df2f6ca26b6" />
 
 ## Contact Form
 This is a where users can feel a form to submit their complaint. The complaint is then received by email.
@@ -47,7 +53,7 @@ This is a where users can feel a form to submit their complaint. The complaint i
 ## About Page
 This page provides information to users about the owners of the website.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/86883f0a-3ef9-4925-badf-c494a738770a" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/a756060c-e573-4720-ad36-987bb92dac9c" />
 
 # Authentication
 The web application supports full authentication features, this include log-in, sign-in & password reset.
@@ -55,8 +61,8 @@ The web application supports full authentication features, this include log-in, 
 ## Register & Verification
 The user can register with a new account, once they register they will receive a verification email to make sure the email belongs to them. They must enter the verification code received to successfully register.
 
-<img width="750" height="437" alt="image" src="https://github.com/user-attachments/assets/71b5d3fa-5f6e-45ed-874a-350732f70b55" />
-<img width="400" height="408" alt="image" src="https://github.com/user-attachments/assets/c23e3340-01bb-4f13-9b39-4e47ea5ca2d1" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/e9cd4f5b-7704-4b70-8e78-d4d168134943" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0f1c900a-ba3c-4bfb-bac0-6a90dda011d2" />
 
 
 ## Log-in / Reset Password
@@ -74,7 +80,7 @@ These are pages accessible only when authenticated as an admin user.
 These pages are automatically generated with a self-made algorithms which transforms classes into html forms.
 The functions make use of reflection to go through the properties/fields of the class, verify their datatype, then writes the form input fields and ids based on the properties data.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/f7db0c97-7bd2-44ec-bbfa-a567af81d635" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/79e3d07e-39f8-48c9-bc38-9f6815065f07" />
 
 Example on how it is done:
 ```c#
@@ -158,8 +164,9 @@ Ex. Update();
 # Mobile-Friendly
 The GUI has been made so that it is compatible with both Desktop and Mobile.
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/d5391e80-c3c9-4498-839e-aa8297044cf5" />
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/066e385f-fb42-4d51-bee1-634169aa3de8" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/e6687769-8393-4324-b019-3559e73bbff1" />
+
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/65945b22-1847-4fca-80a1-be869d2ac7d9" />
 
 
 
