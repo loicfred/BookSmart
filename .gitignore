@@ -1,0 +1,73 @@
+﻿# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Dotnet tools
+.dotnet/
+
+# ASP.NET Core specific
+appsettings.Development.json
+appsettings.Local.json
+
+# Publish output
+publish/
+*.pubxml
+*.publishproj
+
+# IIS / Azure
+*.azurePubxml
+
+# Entity Framework
+Migrations/*.Designer.cs
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# StyleCop
+StyleCopReport.xml
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Node (if using frontend tooling)
+node_modules/
+dist/
+build/
+
+# Secrets
+secrets.json
+.env
+.env.*
+
+# SQLite / local DBs
+*.db
+*.sqlite
