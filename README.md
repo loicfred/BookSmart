@@ -168,5 +168,6 @@ The GUI has been made so that it is compatible with both Desktop and Mobile.
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/65945b22-1847-4fca-80a1-be869d2ac7d9" />
 
 
+
 **Disclaimer**
 - Note that the website information is entirely fictituous and does not belongs to any real organization.
