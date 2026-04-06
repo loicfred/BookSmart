@@ -62,7 +62,7 @@ The web application supports full authentication features, this include log-in, 
 The user can register with a new account, once they register they will receive a verification email to make sure the email belongs to them. They must enter the verification code received to successfully register.
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/5379ad44-8299-41a7-84d1-70053096a7e9" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/0f1c900a-ba3c-4bfb-bac0-6a90dda011d2" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6f9c50b2-4544-46d7-b68e-b8b958471dc2" />
 
 
 ## Log-in / Reset Password
@@ -72,6 +72,7 @@ The reset password url of the email contains a url parameter which links the pas
 It is similar to verification.
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/e9cd4f5b-7704-4b70-8e78-d4d168134943" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/f80e9e5f-20b4-43b3-b54f-3a1bb8d6f52b" />
 
 # Admin
 These are pages accessible only when authenticated as an admin user.
