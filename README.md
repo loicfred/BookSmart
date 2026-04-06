@@ -62,8 +62,7 @@ The web application supports full authentication features, this include log-in, 
 The user can register with a new account, once they register they will receive a verification email to make sure the email belongs to them. They must enter the verification code received to successfully register.
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/5379ad44-8299-41a7-84d1-70053096a7e9" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6f9c50b2-4544-46d7-b68e-b8b958471dc2" />
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3a1963a1-e477-4b67-a7bf-ca3658fd94b3" />
 
 ## Log-in / Reset Password
 The user can enter his email (or username) and password to authenticate. The passwords are hashed and the result of the log-in stores the current user in the session.
