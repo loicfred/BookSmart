@@ -71,7 +71,7 @@ The reset password url of the email contains a url parameter which links the pas
 It is similar to verification.
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/e9cd4f5b-7704-4b70-8e78-d4d168134943" />
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/f80e9e5f-20b4-43b3-b54f-3a1bb8d6f52b" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/572a0d43-afb8-4590-a8b4-536f4e539412" />
 
 # Admin
 These are pages accessible only when authenticated as an admin user.
